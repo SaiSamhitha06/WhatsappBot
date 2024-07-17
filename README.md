@@ -10,13 +10,14 @@ This project is a WhatsApp bot designed to streamline the process of booking hos
 
    Setup and Configuration
 
-     Prerequisites
+   Prerequisites
 
   --> Botpress Studio
   --> Make.com account
   --> Google account for Google Spreadsheets
+  -->Facebook Account for Meta Developers Site
 
-     Steps to Create the WhatsApp Bot
+   Steps to Create the WhatsApp Bot
 
 1.   Create a Bot in Botpress Studio:  
      --> Use Botpress Studio to design the conversational flow for booking appointments.
